@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/attendance/static/css/main.c3014ca2.css",
+    "main.js": "/attendance/static/js/main.d1f4c68b.js",
+    "static/js/787.29ed3e37.chunk.js": "/attendance/static/js/787.29ed3e37.chunk.js",
+    "index.html": "/attendance/index.html",
+    "main.c3014ca2.css.map": "/attendance/static/css/main.c3014ca2.css.map",
+    "main.d1f4c68b.js.map": "/attendance/static/js/main.d1f4c68b.js.map",
+    "787.29ed3e37.chunk.js.map": "/attendance/static/js/787.29ed3e37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3014ca2.css",
+    "static/js/main.d1f4c68b.js"
+  ]
+}
