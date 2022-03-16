@@ -1,22 +1,13 @@
-import logo from './logo.svg';
+import JsonDataDisplay from './components/JsonDataDisplay';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <center><h2>Attendance</h2>
+        <JsonDataDisplay/>
+        </center>
       </header>
     </div>
   );

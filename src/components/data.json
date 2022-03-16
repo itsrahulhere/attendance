@@ -1,0 +1,55 @@
+[
+
+    {
+        "id":1,
+        "name":"Akshit",
+        "attendance":"20%"
+    },
+    
+    {
+        "id":2,
+        "name":"Nikita",
+        "attendance":"10%"
+    },
+    
+    {
+        "id":3,
+        "name":"Deeksha",
+        "attendance":"25%"
+    },
+    
+    {
+        "id":4,
+        "name":"Ritesh",
+        "attendance":"99%"
+    },
+    
+    {
+        "id":5,
+        "name":"Somya",
+        "attendance":"10%"
+    },
+    
+    {
+        "id":6,
+        "name":"Eshika",
+        "attendance":"19%"
+    },
+    {
+        "id":7,
+        "name":"Kalpana",
+        "attendance":"16%"
+    },
+    
+    {
+        "id":8,
+        "name":"Parul",
+        "attendance":"88%"
+    },
+    
+    {
+        "id":9,
+        "name":"Himani",
+        "attendance":"11%"
+    }
+]
